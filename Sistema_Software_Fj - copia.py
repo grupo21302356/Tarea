@@ -342,3 +342,5 @@ contraseña.bind("<Return>", lambda e: contraseña.focus())
 
 # Mantiene la ventana abierta
 ventana.mainloop()
+
+# Prueba de sicronizacion 

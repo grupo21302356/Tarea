@@ -337,6 +337,7 @@ entry_contraseña.bind("<Return>", lambda e: entry_contraseña2.focus())
 usuario.bind("<Return>", lambda e: contraseña.focus())
 contraseña.bind("<Return>", lambda e: contraseña.focus())
 
+# Códigos para guardar errores.
 
 # ------------------ EJECUCIÓN ------------------
 
